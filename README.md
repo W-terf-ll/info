@@ -130,7 +130,6 @@
  - [Слив платных курсов](https://zelenka.guru/threads/3194285/)
  - [Скачивание и активация Windows и Microsoft Office](https://zelenka.guru/threads/3668173/)
  - [Лучший Сборник курсов дизайну 2-3D, Web, UX/UI, Motion Design](https://zelenka.guru/threads/5416194/)
-
  - [Статьи](https://zelenka.guru/forums/421/)
 
 ## Typing
@@ -160,6 +159,8 @@
 - [Генератор Readme3](https://rahuldkjain.github.io/gh-profile-readme-generator/)
 - [Генератор Readme4](https://www.profileme.dev/)
 - [Генератор Readme5](https://metrics.lecoq.io/embed)
+- [WakaTime1](https://github.com/athul/waka-readme)
+- [WakaTime2](https://github.com/anmol098/waka-readme-stats)
 - [Skill Icons](https://github.com/tandpfun/skill-icons)
 - [Gif для Readme](https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/blob/main/README.md)
 - [для Readme](https://github.com/rzashakeri/beautify-github-profile)
