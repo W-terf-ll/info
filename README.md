@@ -82,7 +82,7 @@
 
 - Дополняется
 
-## YouTube каналы
+## YouTube
 
 ### Программирование:
 - [Winderton](https://www.youtube.com/@wndtn)
