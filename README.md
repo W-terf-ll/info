@@ -46,6 +46,7 @@
  - [Дорожная карта фронтендера](https://roadmap.sh/frontend)
  - [Дока (HTML, CSS, JavaScript)](https://doka.guide/)
  - [Proglib](https://proglib.io/)
+ - [Habr](https://habr.com/ru/hubs/programming/articles/)
  - [Tproger](https://tproger.ru/)
  - [Учебники и статьи для Программистов](https://codernet.ru/)
  - [Документация, методология БЭМ](https://ru.bem.info/)
@@ -157,7 +158,17 @@
 - [Gif для Readme](https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/blob/main/README.md)
 - [для Readme](https://github.com/rzashakeri/beautify-github-profile)
 - [Составление файла Readme](https://readme.so/ru)
-- [Полный список достижений GitHub](https://github.com/github-profile-achievements)
+- [Полный список достижений GitHub](https://github.com/github-profile-achievements)'
+
+## Хлам
+
+- [metanit](https://metanit.com/)
+- ["Секреты" поиска в Google](https://stepik.org/course/124935/syllabus)
+- [Мнемоники в HTML](https://ru.wikipedia.org/wiki/%D0%9C%D0%BD%D0%B5%D0%BC%D0%BE%D0%BD%D0%B8%D0%BA%D0%B8_%D0%B2_HTML)
+- [Справочник #1](https://webref.ru/html)
+- [Справочник #2](https://htmlbook.ru/)
+- []()
+- []()
 
 ## Автор
 
