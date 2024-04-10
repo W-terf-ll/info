@@ -45,7 +45,6 @@
 
  - [Дорожная карта фронтендера](https://roadmap.sh/frontend)
  - [Дока (HTML, CSS, JavaScript)](https://doka.guide/)
- - [10 игр для изучения JavaScript](https://techrocks.ru/2023/01/09/10-games-for-javascript-learning/)
  - [Proglib](https://proglib.io/)
  - [Tproger](https://tproger.ru/)
  - [Учебники и статьи для Программистов](https://codernet.ru/)
