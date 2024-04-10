@@ -60,6 +60,7 @@
  - [Cервис для автоматической проверки качества кода](https://www.codefactor.io/)
  - [Cервис для облегчения создания резюме](https://resume.io/)
  - [Коллекция инструментов для дизайна](https://undesign.learn.uno/)
+ - [Activate Windows](https://gist.github.com/kimgiftww/6d6242e35ef6e3baa3a6e4fb8f386d0b)
 
  ## Подготовка к собеседованию
 
@@ -80,20 +81,6 @@
 ## Хостинг проектов
 
 - Дополняется
-
-## Оформление профиля на GitHub
-
- - [Коллекция классных Readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
- - [Генератор кастомных бейджей](https://shields.io/)
- - [Виджет с наградами пользователя](https://github.com/ryo-ma/github-profile-trophy)
- - [Статистика используемых языков](https://github.com/anuraghazra/github-readme-stats)
- - [График вашей активности на GitHub](https://github.com/Ashutosh00710/github-readme-activity-graph)
- - [Статистика вашей активности на GitHub](https://github.com/vn7n24fzkq/github-profile-summary-cards)
- - [Генератор Readme](https://arturssmirnovs.github.io/github-profile-readme-generator/)
- - [Генератор Readme](https://profilinator.rishav.dev/)
- - [Генератор Readme](https://rahuldkjain.github.io/gh-profile-readme-generator/)
- - [Генератор Readme](https://www.profileme.dev/)
- - [Составление файла Readme](https://readme.so/ru)
 
 ## YouTube каналы
 
@@ -162,6 +149,23 @@
 ## GitHub
 
 - [GitHub Student Developer Pack](https://education.github.com/)
+- [Коллекция классных Readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
+- [Генератор кастомных бейджей](https://shields.io/)
+- [Виджет с наградами пользователя](https://github.com/ryo-ma/github-profile-trophy)
+- [Статистика используемых языков](https://github.com/anuraghazra/github-readme-stats)
+- [График вашей активности на GitHub](https://github.com/Ashutosh00710/github-readme-activity-graph)
+- [Статистика вашей активности на GitHub](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+- [Обширная Статистика](https://github.com/lowlighter/metrics)
+- [Генератор Readme1](https://arturssmirnovs.github.io/github-profile-readme-generator/)
+- [Генератор Readme2](https://profilinator.rishav.dev/)
+- [Генератор Readme3](https://rahuldkjain.github.io/gh-profile-readme-generator/)
+- [Генератор Readme4](https://www.profileme.dev/)
+- [Генератор Readme5](https://metrics.lecoq.io/embed)
+- [Skill Icons](https://github.com/tandpfun/skill-icons)
+- [Gif для Readme](https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/blob/main/README.md)
+- [для Readme](https://github.com/rzashakeri/beautify-github-profile)
+- [Составление файла Readme](https://readme.so/ru)
+- [Полный список достижений GitHub](https://github.com/github-profile-achievements)
 
 ## Автор
 
