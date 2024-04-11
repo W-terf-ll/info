@@ -162,6 +162,7 @@
 - [Для Readme](https://github.com/rzashakeri/beautify-github-profile)
 - [Составление файла Readme](https://readme.so/ru)
 - [Полный список достижений GitHub](https://github.com/github-profile-achievements)
+- [Книги по программированию](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-ru.md)
 
 ## Хлам
 
@@ -187,6 +188,14 @@
 - [Notion](https://www.notion.so/product)
 - [Kapeli Dash API](https://kapeli.com/dash)
 - [Doka](https://doka.guide/)
+- [Favicon](https://favicon.io/favicon-generator/)
+- [Bootstrap](https://getbootstrap.com/)
+- [Validator](https://validator.w3.org/#validate_by_uri)
+- [sharkcoder gradient](https://sharkcoder.com/visual/gradient)
+- [sharkcoder](https://sharkcoder.com/)
+- [htmlcolorcodes](https://htmlcolorcodes.com/)
+- [Figma-PRO](https://turbo.pikabu.ru/story/poluchaem_figmapro_besplatno_na_2_goda_8149345)
+- [Learn X in Y minutes](https://learnxinyminutes.com/)
 
 ## Автор
 
