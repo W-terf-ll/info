@@ -43,7 +43,8 @@
 
 ## Общее
 
- - [Дорожная карта фронтендера](https://roadmap.sh/frontend)
+ - [Дорожная карта фронтендера1](https://roadmap.sh/frontend)
+ - [Дорожная карта фронтендера2](https://roadmap.sh/frontend?r=frontend-beginner)
  - [Дока (HTML, CSS, JavaScript)](https://doka.guide/)
  - [Proglib](https://proglib.io/)
  - [Habr](https://habr.com/ru/hubs/programming/articles/)
@@ -65,6 +66,7 @@
 ## Полезные программы
 
  - [VS Code - лучшая среда разработки](https://code.visualstudio.com/)
+ - [семейство JetBrains](https://www.jetbrains.com/)
  - [Postman - тестирование API](https://www.postman.com/)
  - [Организация сниппетов кода](https://snipit.io/)
  - [Документация](https://kapeli.com/dash)
@@ -96,6 +98,10 @@
  - [Основы HTML, CSS и веб-дизайна](https://ru.hexlet.io/courses/html?ref=287543)
  - [Основы программирования](https://ru.hexlet.io/courses/programming-basics?ref=287543)
  - [Первые шаги в JavaScript: создаём сайт](https://netology.ru/programs/javascript-free)
+ - ["Секреты" поиска в Google](https://stepik.org/course/124935/syllabus)
+ - [Яндекс Практикум](https://practicum.yandex.ru/profile/web/?from=profile_subscriptions-with-prof-recommendations)
+ - [Яндекс Практикум Git](https://practicum.yandex.ru/git-basics/?rb_clickid=153748542-1710756610-2166843219&utm_campaign=vkAds_Lead_RF_Prog_Gitba_b2c_Other_Freecource_FNV_new2_keys_IT_newbanners&utm_medium=cpc&utm_source=vk_ads&utm_term=153748542)
+ - [Skillbox](https://skillbox.ru/sale/free/)
 
 ## Тренировка написания кода
 
@@ -162,13 +168,28 @@
 
 ## Хлам
 
-- [metanit](https://metanit.com/)
-- ["Секреты" поиска в Google](https://stepik.org/course/124935/syllabus)
 - [Мнемоники в HTML](https://ru.wikipedia.org/wiki/%D0%9C%D0%BD%D0%B5%D0%BC%D0%BE%D0%BD%D0%B8%D0%BA%D0%B8_%D0%B2_HTML)
 - [Справочник #1](https://webref.ru/html)
 - [Справочник #2](https://htmlbook.ru/)
-- []()
-- []()
+- [Методичка как стать программистом с нуля](https://docs.google.com/document/d/1OOYiR6VwjSTa6iicj93oUuumfyRKPGXPDdHKEWLTnW0/edit?pli=1)
+- [UX/UI-дизайнер](https://live.contented.ru/uxs-guide/?utm_source=crm&utm_medium=tg&utm_campaign=np_cd_uxspro_crm_tg_offer_intensive-43_22-03-2023_all_sf_auto_none&utm_content=auto&utm_term=none)
+- [replit](https://replit.com/languages/javascript)
+- [документация Изучение веб-разработки](https://developer.mozilla.org/ru/docs/Learn)
+- [документация Web](https://developer.mozilla.org/en-US/docs/Web)
+- [документация JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- [Дорожная карта](https://roadmap.sh/)
+- [Figma Fast Isometric](https://www.figma.com/community/plugin/1249759048471403961/fast-isometric)
+- [Undesign](https://undesign.learn.uno/)
+- [Devdocs](https://devdocs.io/)
+- [BGJar](https://bgjar.com/)
+- [Color Hunt](https://colorhunt.co/)
+- [Coolors](https://coolors.co/)
+- [DevSamples](https://www.devsamples.com/)
+- [Uiverse](https://uiverse.io/)
+- [Neumorphism](https://neumorphism.io/)
+- [Notion](https://www.notion.so/product)
+- [Kapeli Dash API](https://kapeli.com/dash)
+- [Doka](https://doka.guide/)
 
 ## Автор
 
