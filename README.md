@@ -158,7 +158,7 @@
 - [Gif для Readme](https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/blob/main/README.md)
 - [для Readme](https://github.com/rzashakeri/beautify-github-profile)
 - [Составление файла Readme](https://readme.so/ru)
-- [Полный список достижений GitHub](https://github.com/github-profile-achievements)'
+- [Полный список достижений GitHub](https://github.com/github-profile-achievements)
 
 ## Хлам
 
