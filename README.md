@@ -133,7 +133,10 @@
 
 ## Typing
 
-- Дополняется
+- [Typerun](https://typerun.top/)
+- [Monkeytype](https://monkeytype.com/)
+- [Stamina](https://stamina-online.com/)
+- [TypingClub](https://www.typingclub.com/)
 
 ## Развлечения
 
