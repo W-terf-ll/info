@@ -99,8 +99,10 @@
  - [Основы программирования](https://ru.hexlet.io/courses/programming-basics?ref=287543)
  - [Первые шаги в JavaScript: создаём сайт](https://netology.ru/programs/javascript-free)
  - ["Секреты" поиска в Google](https://stepik.org/course/124935/syllabus)
- - [Яндекс Практикум](https://practicum.yandex.ru/profile/web/?from=profile_subscriptions-with-prof-recommendations)
- - [Яндекс Практикум Git](https://practicum.yandex.ru/git-basics/?rb_clickid=153748542-1710756610-2166843219&utm_campaign=vkAds_Lead_RF_Prog_Gitba_b2c_Other_Freecource_FNV_new2_keys_IT_newbanners&utm_medium=cpc&utm_source=vk_ads&utm_term=153748542)
+ - [Яндекс Практикум Основы программирования](https://practicum.yandex.ru/promo/courses/osnovy-programmirovaniya?from=catalog)
+ - [Яндекс Практикум Веб-разработка](https://practicum.yandex.ru/high-education-web-developer-magistr/?from=catalog)
+ - [Яндекс Практикум Основы работы с Git](https://practicum.yandex.ru/git-basics/?from=catalog)
+ - [Яндекс Практикум Основы Go](https://practicum.yandex.ru/go-basics/?from=catalog)
  - [Skillbox](https://skillbox.ru/sale/free/)
 
 ## Тренировка написания кода
@@ -199,6 +201,10 @@
 - [htmlcolorcodes](https://htmlcolorcodes.com/)
 - [Figma-PRO](https://turbo.pikabu.ru/story/poluchaem_figmapro_besplatno_na_2_goda_8149345)
 - [Learn X in Y minutes](https://learnxinyminutes.com/)
+- [Excalidraw](https://excalidraw.com/)
+- [Material Design](https://m3.material.io/)
+- [Learn-anything](https://learn-anything.xyz/)
+- [vscode+repository](https://vscode.dev/)
 
 ## Автор
 
