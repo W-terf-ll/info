@@ -115,6 +115,7 @@
  - [GitHub Copilot](https://github.com/features/copilot)
  - [ChatGPT](https://chat.openai.com)
  - [Mistral](https://chat.mistral.ai/)
+ - [Сборник](https://ailibri.com/)
 
 ## Lolzteam
 
