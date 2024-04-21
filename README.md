@@ -206,6 +206,7 @@
 - [Material Design](https://m3.material.io/)
 - [Learn-anything](https://learn-anything.xyz/)
 - [vscode+repository](https://vscode.dev/)
+- [Codingfantasy](https://codingfantasy.com/)
 
 ## Автор
 
