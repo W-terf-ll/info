@@ -72,9 +72,11 @@
  - [Документация](https://kapeli.com/dash)
  - [Notion - заметки](https://www.notion.so/)
 
-## Хостинг проектов
+## Дистрибутивы Linux
 
-- Дополняется
+- [tails](https://tails.net/)
+- [mofolinux](https://mofolinux.com/)
+- [whonix](https://www.whonix.org/)
 
 ## YouTube
 
@@ -207,6 +209,20 @@
 - [Learn-anything](https://learn-anything.xyz/)
 - [vscode+repository](https://vscode.dev/)
 - [Codingfantasy](https://codingfantasy.com/)
+- [ailibri](https://ailibri.com/)
+- [Курс по анонимности/безопасности в сети](https://book.cyberyozh.com/ru/)
+- [Практическое руководство по анонимности в сети](https://www.google.com/amp/s/habr.com/ru/amp/publications/556914/)
+- [css-container-query-guide](https://ishadeed.com/article/css-container-query-guide/)
+- [code.mu](https://code.mu/)
+- [streak-stats for github](https://streak-stats.demolab.com/demo/)
+- [github-profile-views-counter](https://github.com/antonkomarev/github-profile-views-counter)
+- [codepen](https://codepen.io/pen/)
+- [jsfiddle](https://jsfiddle.net/)
+- [zty game](https://zty.pe/)
+- [diagrams](https://draw.io)
+- [theodinproject](https://www.theodinproject.com/)
+- [excalidraw](https://excalidraw.com/)
+- [tiobe](https://www.tiobe.com/)
 
 ## Автор
 
