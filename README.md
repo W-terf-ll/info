@@ -105,6 +105,7 @@
  - [ChatGPT](https://chat.openai.com)
  - [Mistral](https://chat.mistral.ai/)
  - [Сборник](https://ailibri.com/)
+ - [ailibri](https://ailibri.com/)
 
 ## Lolzteam
 
@@ -196,7 +197,6 @@
 - [Learn-anything](https://learn-anything.xyz/)
 - [vscode+repository](https://vscode.dev/)
 - [Codingfantasy](https://codingfantasy.com/)
-- [ailibri](https://ailibri.com/)
 - [Курс по анонимности/безопасности в сети](https://book.cyberyozh.com/ru/)
 - [Практическое руководство по анонимности в сети](https://www.google.com/amp/s/habr.com/ru/amp/publications/556914/)
 - [css-container-query-guide](https://ishadeed.com/article/css-container-query-guide/)
