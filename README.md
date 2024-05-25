@@ -78,19 +78,6 @@
 - [mofolinux](https://mofolinux.com/)
 - [whonix](https://www.whonix.org/)
 
-## YouTube
-
-### Программирование:
-- [Winderton](https://www.youtube.com/@wndtn)
-- [Bogdan Stashchuk](https://www.youtube.com/@Bogdan_Stashchuk)
-- [Александр Ильин](https://www.youtube.com/@digital_ninja/videos)
-- [CS50](https://www.youtube.com/cs50)
-- [Школа itProger](https://www.youtube.com/@itproger/videos)
-
-### Подкасты
-- [Александр Соколовский](https://www.youtube.com/@AlexanderSokolovskiy)
-- [Глеб Соломин](https://www.youtube.com/@podcast_solomina)
-
 ## Бесплатные курсы
 
  - [Изучение возможностей git](https://learngitbranching.js.org/?locale=ru_RU)
