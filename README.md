@@ -92,7 +92,6 @@
  - [Яндекс Практикум Веб-разработка](https://practicum.yandex.ru/high-education-web-developer-magistr/?from=catalog)
  - [Яндекс Практикум Основы работы с Git](https://practicum.yandex.ru/git-basics/?from=catalog)
  - [Яндекс Практикум Основы Go](https://practicum.yandex.ru/go-basics/?from=catalog)
- - [Skillbox](https://skillbox.ru/sale/free/)
 
 ## Тренировка написания кода
 
@@ -109,20 +108,15 @@
 
 ## Lolzteam
 
- - [Оформление Steam](https://zelenka.guru/threads/5437745/)
- - [ПК | Подбирай комплектующие правильно](https://zelenka.guru/threads/6383483/)
- - [Оптимизация Windows 10/11 | Повышение фпс в CS2 / CS:GO | Оптимизация Steam](https://zelenka.guru/threads/2928213/)
- - [Почему не стоит разбрасываться деньгами и как начать копить](https://zelenka.guru/threads/3190772/)
- - [ТОП 15 расширений для браузера](https://zelenka.guru/threads/3623482/)
- - [Горячие клавиши Windows 10](https://zelenka.guru/threads/5952181/)
- - [Способ отвязать семейный просмотр от Steam](https://zelenka.guru/threads/360454/)
- - [Финансовая грамотность](https://zelenka.guru/threads/4878425/)
- - [Разработка собственного бота используя Discord.JS](https://zelenka.guru/threads/2416280/)
- - [Создаём своего бота в Discord без особых навыков программирования](https://zelenka.guru/threads/2151820/)
- - [Слив платных курсов](https://zelenka.guru/threads/3194285/)
- - [Скачивание и активация Windows и Microsoft Office](https://zelenka.guru/threads/3668173/)
- - [Лучший Сборник курсов дизайну 2-3D, Web, UX/UI, Motion Design](https://zelenka.guru/threads/5416194/)
- - [Статьи](https://zelenka.guru/forums/421/)
+ - [Оформление Steam](https://lolz.live/threads/5437745/)
+ - [ПК | Подбирай комплектующие правильно](https://lolz.live/threads/6383483/)
+ - [Горячие клавиши Windows 10](https://lolz.live/threads/5952181/)
+ - [Способ отвязать семейный просмотр от Steam](https://lolz.live/threads/360454/)
+ - [Разработка собственного бота используя Discord.JS](https://lolz.live/threads/2416280/)
+ - [Создаём своего бота в Discord без особых навыков программирования](https://lolz.live/threads/2151820/)
+ - [Скачивание и активация Windows и Microsoft Office](https://lolz.live/threads/3668173/)
+ - [Лучший Сборник курсов дизайну 2-3D, Web, UX/UI, Motion Design](https://lolz.live/threads/5416194/)
+ - [Статьи](https://lolz.live/forums/421/)
 
 ## Typing
 
